@@ -11,5 +11,7 @@ module.exports = function (source) {
         fs.writeFile(this.resourcePath, formatted, this.encoding, err => {
             if (err) throw err;
         });
-    }    
+    }   
+
+    return formatted; 
 };
