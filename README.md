@@ -1,4 +1,4 @@
-# vue-beautifier-loader
+# vue-beautify-loader
 
 Simple preloader to beautify .vue files. Only tested with Webpack 2.
 
