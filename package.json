@@ -1,0 +1,32 @@
+{
+  "name": "vue-beautify-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader for vue-beautify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhitmore/vue-beautify-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "beautify",
+    "vue-beautify",
+    "vue-formatter",
+    "webpack",
+    "loader"
+  ],
+  "author": "Dewey Whitmore <dwhitmore01@gmail.com> (https://github.com/dwhitmore)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwhitmore/vue-beautify-loader/issues"
+  },
+  "homepage": "https://github.com/dwhitmore/vue-beautify-loader#readme",
+  "dependencies": {
+    "js-beautify": "^1.6.12",
+    "loader-utils": "^1.1.0",
+    "vue-beautify": "^1.1.3"
+  }
+}
