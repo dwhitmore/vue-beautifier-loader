@@ -29,6 +29,6 @@ jsBeautify options are optional. See below for an example.
 ### Install
 
 ```
-npm install -g vue-beautifier-loader
-npm install --save-dev vue-beautifier-loader
+npm install -g vue-beautify-loader
+npm install --save-dev vue-beautify-loader
 ```
