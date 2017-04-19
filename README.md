@@ -13,7 +13,7 @@ jsBeautify options are optional. See below for an example.
       {
         enforce: 'pre',
         test: /\.vue$/,
-        loader: 'vue-beautifier-loader',
+        loader: 'vue-beautify-loader',
         options: {
           jsBeautify: {
               "indent_scripts": "keep"
